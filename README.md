@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaKubota&langs_count=8&theme=onedark)](https://github.com/melinaKubota/github-readme-stats)
 
-[![Melina Kubota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melinaKubota&theme=onedark)](https://github.com/melinaKubota/github-readme-stats)
+[![Melina Kubota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melinaKubota&layout=compact&theme=onedark)](https://github.com/melinaKubota/github-readme-stats)
 
 
 
