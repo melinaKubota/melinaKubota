@@ -1,9 +1,7 @@
 ### Oiee 👋 eu sou a Melina Kubota
-![Melina Kubota's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinaKubota&show_icons=true&theme=onedark)
+![Melina Kubota's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinaKubota&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaKubota&langs_count=8&theme=onedark)](https://github.com/melinaKubota/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaKubota&langs_count=8&theme=onedark)](https://github.com/melinaKubota/github-readme-stats)
-
-[![Melina Kubota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melinaKubota&layout=compact&theme=onedark)](https://github.com/melinaKubota/github-readme-stats)
+[![Melina Kubota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melinaKubota)](https://github.com/melinaKubota/github-readme-stats)
 
 
 
