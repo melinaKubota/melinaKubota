@@ -1,4 +1,4 @@
-### Hi, eu sou a Melina Kubota <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 I am Melina Kubota 
 
 # GitHub Status 
