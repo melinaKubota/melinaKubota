@@ -27,7 +27,7 @@ I am Melina Kubota and here I present a summary of my story with coding.
 
 
 # Interested in Learning
-  <img align="left" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="50">
+  <img align="left" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="40">
   <br>
 
 
