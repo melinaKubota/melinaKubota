@@ -12,7 +12,8 @@ I am Melina Kubota and here I present a summary of my story with coding.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> 
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40">
-  <img src="https://icon-icons.com/pt/icone/arquivo-tipo-flutter/130599" width="40">
+  <img src="https://img.icons8.com/color/452/flutter.png" width="40">
+  
   
 </div>
 
@@ -22,7 +23,7 @@ I am Melina Kubota and here I present a summary of my story with coding.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40">
-  android studio
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="40">
 </div>
 
 
