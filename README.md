@@ -17,7 +17,7 @@ I am Melina Kubota and here I present a summary of my story with coding.
 </div>
 
 
-# Platforma and Tools:
+# Platform and Tools:
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40">
@@ -32,7 +32,7 @@ I am Melina Kubota and here I present a summary of my story with coding.
 
 
   
-# You can find on:
+# You can find me on:
   <a href="https://www.linkedin.com/in/melina-kubota-a083a0150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
