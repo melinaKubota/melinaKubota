@@ -1,4 +1,4 @@
-### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+### Hello word, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 I am Melina Kubota and here I present a summary of my story with coding.
 # GitHub Stats: 
 ![Melina Kubota's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinaKubota&show_icons=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaKubota&langs_count=8&theme=onedark)](https://github.com/melinaKubota/github-readme-stats)
