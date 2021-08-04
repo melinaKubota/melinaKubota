@@ -12,7 +12,6 @@ I am Melina Kubota and here I present a summary of my story with coding.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> 
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40">
   <img src="https://img.icons8.com/color/452/flutter.png" width="40"> 
 </div>
 
